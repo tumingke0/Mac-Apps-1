@@ -17,6 +17,7 @@
 | 名称  | 描述  | 收费模式  | 官网  |  推荐度  |
 |  :----  |  :----  |  :----  |  :----  |  :----  |
 | Thaw  | Mac菜单栏图标管理开源软件 | 免费 | [Thaw](https://github.com/stonerl/Thaw) | ⭐️⭐️⭐️⭐️⭐️ |
+| LayoutKeeper  | 外接屏插拔后自动恢复窗口位置、大小与桌面空间；外接屏亮度跟随内建屏；按 USB-C 口切换显示器排列；四级防休眠 | 免费开源 | [LayoutKeeper](https://github.com/tumingke0/LayoutKeeper) | ⭐️⭐️⭐️⭐️ |
 
 ## 美化
 
